@@ -7,6 +7,8 @@ facebook.com, 1923500204649502, RESELLER, c3e20eee3f780d68
 google.com, pub-7595184822954787, DIRECT, f08c47fec0942fa0
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
+facebook.com, 1672941479948950, DIRECT, c3e20eee3f780d68
+
 pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 24244, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24242, RESELLER, 0bfd66d529a55807

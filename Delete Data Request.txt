@@ -1,7 +1,0 @@
-Request to Delete Data
-
-Delete Your Account
-The easiest way to remove your data is by deleting your account. To do this, navigate to the Settings section in the app, scroll down, and select "Delete Account". This action will permanently erase all your data from our servers, and you will no longer have access to your account.
-
-Request Data Deletion
-If you prefer, you can request data deletion in accordance with our Privacy Policy by sending an email to thuyet1989jp@gmail.com.
